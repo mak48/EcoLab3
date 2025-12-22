@@ -1,0 +1,79 @@
+﻿  CEcoLab1Factory.c
+  CEcoLab1EnumConnections.c
+  CEcoLab1EnumConnectionPoints.c
+  CEcoLab1ConnectionPoint.c
+  CEcoLab1.c
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(160): warning C4101: 'result' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(247): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(258): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(265): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(270): warning C4047: 'function' : 'const void **' differs in levels of indirection from 'int32_t ***'
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(270): warning C4022: 'CEcoLab1_Fire_AfterSettingMainDiag' : pointer mismatch for actual parameter 2
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(290): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(301): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(306): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(329): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(340): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(345): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(368): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(379): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(384): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(407): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(418): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(423): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(446): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(457): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(463): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(486): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(497): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(502): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(530): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(541): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(546): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(574): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(585): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(590): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(618): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(629): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(634): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(662): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(673): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(678): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(706): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(717): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(722): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(750): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(737): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(773): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(760): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(796): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(783): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(819): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(806): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(842): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(829): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(865): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(852): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(883): warning C4018: '>=' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(892): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(875): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(915): warning C4018: '>=' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(924): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(907): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(947): warning C4018: '>=' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(956): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(939): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(979): warning C4018: '>=' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(988): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(971): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(1011): warning C4018: '>=' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(1020): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(1003): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(1043): warning C4018: '>=' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(1052): warning C4018: '<' : signed/unsigned mismatch
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(1035): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(1067): warning C4101: 'result' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\sourcefiles\cecolab1.c(1298): warning C4101: 'result' : unreferenced local variable
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(D:\Projects\C\Eco.Education\Eco.Practice\Eco.Lab1\AssemblyFiles\Windows\VisualStudio_10\Eco.Lab1\StaticDebug\1F5DF16EE1BF43B999A434ED38FE8F3A.lib) does not match the Library's OutputFile property value (D:\Projects\C\Eco.Education\Eco.Practice\Eco.Lab1\BuildFiles\Windows\x86\StaticDebug\1F5DF16EE1BF43B999A434ED38FE8F3A.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  Eco.Lab1.vcxproj -> D:\Projects\C\Eco.Education\Eco.Practice\Eco.Lab1\AssemblyFiles\Windows\VisualStudio_10\Eco.Lab1\StaticDebug\1F5DF16EE1BF43B999A434ED38FE8F3A.lib

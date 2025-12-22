@@ -1,0 +1,76 @@
+﻿  CEcoLab1.c
+..\..\..\SourceFiles\CEcoLab1.c(273): warning C4101: 'result' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(360): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(371): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(378): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(403): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(414): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(419): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(442): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(453): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(458): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(481): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(492): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(497): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(520): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(531): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(536): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(559): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(570): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(576): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(600): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(611): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(618): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(649): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(660): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(665): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(693): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(704): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(709): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(737): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(748): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(753): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(781): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(792): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(797): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(825): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(836): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(841): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(873): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(856): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(898): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(885): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(921): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(908): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(944): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(931): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(967): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(954): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(990): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(977): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(1010): warning C4018: '>=' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1021): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1000): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(1046): warning C4018: '>=' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1055): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1038): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(1078): warning C4018: '>=' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1087): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1070): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(1110): warning C4018: '>=' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1119): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1102): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(1142): warning C4018: '>=' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1151): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1134): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(1174): warning C4018: '>=' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1183): warning C4018: '<' : signed/unsigned mismatch
+..\..\..\SourceFiles\CEcoLab1.c(1166): warning C4101: 'j' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(1198): warning C4101: 'result' : unreferenced local variable
+..\..\..\SourceFiles\CEcoLab1.c(1429): warning C4101: 'result' : unreferenced local variable
+  CEcoLab1ConnectionPoint.c
+  CEcoLab1EnumConnectionPoints.c
+  CEcoLab1EnumConnections.c
+  CEcoLab1Factory.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1151,5): warning MSB8012: TargetPath(D:\Projects\C\Eco.Education\Eco.Practice\Eco.Lab1\AssemblyFiles\Windows\VisualStudio_10\Eco.Lab1\StaticRelease\1F5DF16EE1BF43B999A434ED38FE8F3A.lib) does not match the Library's OutputFile property value (D:\Projects\C\Eco.Education\Eco.Practice\Eco.Lab1\BuildFiles\Windows\x86\StaticRelease\1F5DF16EE1BF43B999A434ED38FE8F3A.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  Eco.Lab1.vcxproj -> D:\Projects\C\Eco.Education\Eco.Practice\Eco.Lab1\AssemblyFiles\Windows\VisualStudio_10\Eco.Lab1\StaticRelease\1F5DF16EE1BF43B999A434ED38FE8F3A.lib
