@@ -1,0 +1,30 @@
+﻿  EcoLab1.c
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(845): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(880): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(915): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(950): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(985): warning C4101: 'j' : unreferenced local variable
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1474): error C2143: syntax error : missing ';' before 'type'
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1475): error C2143: syntax error : missing ';' before 'type'
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1476): error C2275: 'size_t' : illegal use of this type as an expression
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\codeanalysis\sourceannotations.h(29) : see declaration of 'size_t'
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1476): error C2146: syntax error : missing ';' before identifier 'testSize'
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1476): error C2065: 'testSize' : undeclared identifier
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1477): error C2065: 'testMat' : undeclared identifier
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1477): error C2065: 'testSize' : undeclared identifier
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1477): warning C4047: '=' : 'int' differs in levels of indirection from 'int32_t **'
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1478): error C2065: 'testDiag' : undeclared identifier
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1478): error C2065: 'testSize' : undeclared identifier
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1478): warning C4047: '=' : 'int' differs in levels of indirection from 'int32_t *'
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1480): error C2065: 'testDiag' : undeclared identifier
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1480): warning C4047: 'function' : 'int32_t *' differs in levels of indirection from 'int'
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1480): warning C4024: 'function through pointer' : different types for formal and actual parameter 2
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1480): error C2065: 'testSize' : undeclared identifier
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1480): error C2065: 'testMat' : undeclared identifier
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1480): warning C4047: 'function' : 'int32_t ***' differs in levels of indirection from 'int'
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1480): warning C4024: 'function through pointer' : different types for formal and actual parameter 4
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1482): error C2065: 'testDiag' : undeclared identifier
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\ecolab1.c(1482): warning C4022: 'function through pointer' : pointer mismatch for actual parameter 2
+  CEcoLab1Sink.c
+d:\projects\c\eco.education\eco.practice\eco.lab1\unittestfiles\sourcefiles\cecolab1sink.c(143): warning C4013: 'Sleep' undefined; assuming extern returning int
+  Generating Code...
